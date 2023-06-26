@@ -22,14 +22,17 @@ This file's purpose is to help you navigate through my projects easier, the proj
 ## F <a id="f"></a>
   
 ## G <a id="g"></a>
-
+- <a href="https://github.com/Uwais-Moosa/gallery-F-C">Gallery website<a/> - made with HTML, CSS, Javascript
 
 ## H <a id="h"></a>
 - <a href="https://github.com/Uwais-Moosa/Horiseon-Code-Refactor">Horiseon Code Refactor<a/> Refactoring challenge using HTML & CSS
+- <a href="https://github.com/Uwais-Moosa/hobby-page-F-C">Hobby Page<a/> - This is a Hobby Page - made with HTML, CSS, Javascript
+- <a href="https://github.com/Uwais-Moosa/hobby-page-F-C">Healthy Recipes<a/> - This is a Codecademy challenge
   
 ## I <a id="i"></a>
 
 ## M <a id="m"></a>
+- <a href="https://github.com/Uwais-Moosa/morocco-codecademy">Morocco Website<a/> - This is a Codecademy challenge
 
 ## N <a id="n"></a>
 
@@ -46,6 +49,7 @@ This file's purpose is to help you navigate through my projects easier, the proj
 ## S <a id="s"></a>
 
 ## T <a id="t"></a>
+- <a href="https://github.com/Uwais-Moosa/Tsunami-Coffee-Codecademy">Tsunami Coffee<a/> - This is a Codecademy challenge
 
 ## U <a id="u"></a>
 
